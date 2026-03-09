@@ -4,7 +4,7 @@
 Created on Tue Feb 20 09:14:47 2024
 
 @author: Damien Bouffard
-@email: damien.bouffard@unil.ch
+@email: damien.bouffard@eawag.ch
 """
 
 import numpy as np
